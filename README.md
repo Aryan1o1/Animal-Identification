@@ -24,5 +24,8 @@ cd myWebApp
 
 python.exe .\manage.py runserver
 
+http://127.0.0.1:8000/imageupload/ 
+run this on any desired browser
+
 After it you can upload any image to it and check it...
 
