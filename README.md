@@ -24,3 +24,5 @@ cd myWebApp
 
 python.exe .\manage.py runserver
 
+After it you can upload any image to it and check it...
+
